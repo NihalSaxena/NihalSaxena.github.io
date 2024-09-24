@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc26d8f5.css",
+    "main.js": "/static/js/main.6572dd18.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/MananWebPortrait.png": "/static/media/MananWebPortrait.f2a56d7e87e2c46070d4.png",
+    "index.html": "/index.html",
+    "main.bc26d8f5.css.map": "/static/css/main.bc26d8f5.css.map",
+    "main.6572dd18.js.map": "/static/js/main.6572dd18.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc26d8f5.css",
+    "static/js/main.6572dd18.js"
+  ]
+}
