@@ -44,7 +44,7 @@ const Landing = () => {
 							🧠 SWE Intern @ Synchron
 						</h4>
 						<h4 style={{ textAlign: "left" }} className="landing-about fly-in-bottom">
-							💻 Director @ Disruption Lab
+							🌐 Director @ Disruption Lab
 						</h4>
 						<h4 style={{ textAlign: "left" }} className="landing-about fly-in-bottom">
 							🚀 President @ Founders - Illinois Entrepreneurs

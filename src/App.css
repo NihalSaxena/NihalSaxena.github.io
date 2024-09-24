@@ -212,8 +212,8 @@ a.anchor {
   transform: translate(0%, -50%);
 } */
 .landing-portrait {
-  max-height: 80%;
-  max-width: 80%;
+  max-height: 70%;
+  max-width: 70%;
   /* transform: translate(0%, 100px); */
   /* padding-bottom: 50px; */
 }
