@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
-import {
-	SlSocialInstagram,
-	SlSocialLinkedin,
-	SlSocialGithub,
-} from "react-icons/sl";
-import { AiOutlineMenu } from "react-icons/ai";
-import { Fade } from "react-reveal";
+// import {
+// 	SlSocialInstagram,
+// 	SlSocialLinkedin,
+// 	SlSocialGithub,
+// } from "react-icons/sl";
+// import { AiOutlineMenu } from "react-icons/ai";
+// import { Fade } from "react-reveal";
 // import HueSlider from "../Components/HueSlider";
 
 const Header = () => {
